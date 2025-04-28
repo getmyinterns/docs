@@ -109,37 +109,20 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'GetMyInterns',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'About',
+              href: 'https://www.getmyinterns.org',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+              label: 'Contact us',
+              href: 'https://getmyinterns.org/Home/ContactUs?origin=help-page',
+            }
           ],
-        },
-        // {
-        //   title: 'More',
-        //   items: [
-        //     {
-        //       label: 'Blog',
-        //       to: '/blog',
-        //     },
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://github.com/facebook/docusaurus',
-        //     },
-        //   ],
-        // },
+        }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} GetMyInterns, LLC. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
