@@ -20,7 +20,7 @@ Once your account is created, you’ll receive a welcome email with your login c
 
 ### 2. Configure Area of Study
 
-The `Area of Study`, a category or field in which students focus their academic and internship pursuits, should be the first thing you configure. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districs call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to **_Configure_** > **_Area of Studies_**
+The `Area of Study`, a category or field in which students focus their academic and internship pursuits, should be the first thing you configure. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districts call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to **_Configure_** > **_Area of Studies_**
 
 ![Area of Study Name](images/area-of-study-name.png)
 
