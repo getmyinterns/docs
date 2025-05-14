@@ -19,7 +19,7 @@ You can change the password by clicking on ***My Info*** > ***Reset Password***
 ![Reset Password](images/password-reset.png)
 
 ### 2. Configure Area of Study
-The `Area of Study`, a category or field in which students focus their academic and internship pursuits, should be the first thing you configure. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districs call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to ***Configure*** > ***Area of Studies***
+The `Area of Study`, a category or field in which students focus their academic and internship pursuits, should be the first thing you configure. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districts call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to ***Configure*** > ***Area of Studies***
 
 ![Area of Study Name](images/area-of-study-name.png)
 
