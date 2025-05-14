@@ -22,7 +22,7 @@ ii. Click on the icon to the right of the student to be approved.
 
 :::info
 
-Tap on either the First Name or Last Name of the student to see and edit data such as students details, workflow, seasons, etc.
+Tap on either the First Name or Last Name of the student to see and edit data such as students details, workflow, seasons, etc. (see Configure (**_insert URL_**) to set up the different fields)
 
 :::
 
