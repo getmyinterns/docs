@@ -12,11 +12,13 @@ This step is only necessary if you have activated it from **_Settings_** > **_Ge
 
 :::
 
-i. Click on **_Pending_** > **_Students_**.
+**i.** Click on **_Pending_** > **_Students_**.
 
 ![Reset Password](images/pending-students.png)
 
-ii. Click on the icon to the right of the student to be approved.
+You can use the filter to choose between active `Seasons`.
+
+**ii.** Click on the icon to the right of the student to be approved.
 
 ![Reset Password](images/approve-students.png)
 
@@ -34,15 +36,17 @@ The students need to be approved for each active season they have applied to, ei
 
 :::info
 
-You can choose other admins to also approve an `Internship Provider` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/Settings#general-settings) for more info). If so, the `Internship Provider` needs to be approved by all selected admins.
+You can choose other admins to also approve an `Internship Provider` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/Settings#general-settings) for more info). If so, any of the selected admins will be able to approve `Internship Providers`.
 
 :::
 
-i. Click on **_Pending_** > **_Internship Providers_**.
+**i.** Click on **_Pending_** > **_Internship Providers_**.
 
 ![Reset Password](images/pending-provider.png)
 
-ii. Click on a name from the list to review, edit, approve or decline.
+You can use the filter to choose between active `Seasons`.
+
+**ii.** Click on a name from the list to review, edit, approve or decline.
 
 -The `Internship Provider` needs to be approved for each active `Season` it has applied to, either from the list of providers, since it will appear once for each season it has applied to, or from the `Details` tab.
 
