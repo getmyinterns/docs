@@ -92,3 +92,24 @@ Remember to click on **_Save_** at the bottom of the screen when you finish.
 :::
 
 ## Evaluation Settings
+
+Manage your `Evaluation` preferences for each `Season`.
+
+**1.** Choose `Season`
+
+**2.** Enable `Evaluations`
+
+You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/system-configuration#evaluations)).
+
+![Reset Password](images/evaluation-questions.png)
+
+**3.** Set up evaluation periods
+
+- Quantity
+- Name and dates
+
+:::warning
+
+Remember to click on **_Save_** at the bottom of the screen when you finish.
+
+:::
