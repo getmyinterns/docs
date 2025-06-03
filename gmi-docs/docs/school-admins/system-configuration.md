@@ -42,7 +42,7 @@ You can choose to include criteria for the `Students` to be approved.
 
 :::info
 
-You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Pending - Students](/school-admins/pending)). However, you can still approve the `Student` without checking this criteria.
+You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Pending - Students](/school-admins/managing-users#how-to-review-and-approve-student-accounts)). However, you can still approve the `Student` without checking this criteria.
 
 :::
 

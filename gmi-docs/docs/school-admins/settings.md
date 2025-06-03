@@ -56,7 +56,6 @@ You can choose if a supervisor admin and/or supervisor can also approve pending 
 
 You can choose a number of internships to be informed by email when it has been reached.
 
-
 ## Timesheet Settings
 
 Manage your `Timesheet` preferences. You can configure fundamental aspects of the approved internships to suit your needs.
@@ -85,7 +84,6 @@ From `Timesheet Settings` you can:
 - `Student` supervisor confirmation extra message before approval
 - Workplace supervisor confirmation extra message before approval
 
-
 ## Evaluation Settings
 
 Manage your `Evaluation` preferences for each `Season`.
@@ -94,7 +92,7 @@ Manage your `Evaluation` preferences for each `Season`.
 
 **2.** Enable `Evaluations`
 
-You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/system-configuration#evaluations)).
+You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/school-admins/system-configuration#evaluations)).
 
 ![Reset Password](images/evaluation-questions-from-providers-set-up.png)
 

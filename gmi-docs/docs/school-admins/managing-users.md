@@ -8,7 +8,7 @@ sidebar_position: 4
 
 :::warning
 
-This step is only necessary if you have activated it from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/Settings#general-settings) for more info). **If not activated, students will be able to open an account and directly use the app**.
+This step is only necessary if you have activated it from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings#general-settings) for more info). **If not activated, students will be able to open an account and directly use the app**.
 
 :::
 
@@ -36,7 +36,7 @@ The students need to be approved for each active season they have applied to, ei
 
 :::info
 
-You can choose other admins to also approve an `Internship Provider` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/Settings#general-settings) for more info). If so, any of the selected admins will be able to approve `Internship Providers`.
+You can choose other admins to also approve an `Internship Provider` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings#general-settings) for more info). If so, any of the selected admins will be able to approve `Internship Providers`.
 
 :::
 
@@ -56,9 +56,6 @@ You can use the filter to choose between active `Seasons`.
 
 :::info
 
-After approving or declining, the provider's status can be changed from **_Reports_** > **_Internship Providers_** (see [Reports - Internship Providers](/reports#how-to-run-the-internship-providers-report) for more info) or from any other field where the Internship Provider's name appears clickable.
+After approving or declining, the provider's status can be changed from **_Reports_** > **_Internship Providers_** (see [Reports - Internship Providers](/school-admins/reports#how-to-run-the-internship-providers-report) for more info) or from any other field where the Internship Provider's name appears clickable.
 
 :::
-
-
-
