@@ -94,7 +94,7 @@ Manage your `Evaluation` preferences for each `Season`.
 
 **2.** Enable `Evaluations`
 
-You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/system-configuration#evaluations)).
+You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/school-admins/system-configuration#evaluations)).
 
 ![Reset Password](images/evaluation-questions-from-providers-set-up.png)
 
