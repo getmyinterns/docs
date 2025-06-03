@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Settings
 
+:::warning
+
+Remember to click on **_Save_** at the bottom of the screen when you finish each settings item.
+
+:::
+
 ## General Settings
 
 Manage your account preferences and customize your experience with ease. In `General Settings`, you can configure fundamental aspects of your GetMyInterns.org account to suit your needs. Take control and optimize your internship management experience effortlessly.
@@ -50,12 +56,6 @@ You can choose if a supervisor admin and/or supervisor can also approve pending 
 
 You can choose a number of internships to be informed by email when it has been reached.
 
-:::warning
-
-Remember to click on **_Save_** at the bottom of the screen when you finish.
-
-:::
-
 
 ## Timesheet Settings
 
@@ -85,11 +85,6 @@ From `Timesheet Settings` you can:
 - `Student` supervisor confirmation extra message before approval
 - Workplace supervisor confirmation extra message before approval
 
-:::warning
-
-Remember to click on **_Save_** at the bottom of the screen when you finish.
-
-:::
 
 ## Evaluation Settings
 
@@ -101,15 +96,9 @@ Manage your `Evaluation` preferences for each `Season`.
 
 You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/system-configuration#evaluations)).
 
-![Reset Password](images/evaluation-questions.png)
+![Reset Password](images/evaluation-questions-from-providers-set-up.png)
 
 **3.** Set up evaluation periods
 
 - Quantity
 - Name and dates
-
-:::warning
-
-Remember to click on **_Save_** at the bottom of the screen when you finish.
-
-:::
