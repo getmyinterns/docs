@@ -56,7 +56,7 @@ Tapping on the `Internship Provider`'s name will open a window with two tabs.
 
 In the first tab you can view and **_Edit_** the `Internship Provider`'s details. You can **_Approve_** or **_Decline_** the `Internship Provider` for each active `Season` from here.
 
-In the `Jobs` tab you can see a list of `Jobs` offered by the `Internship Provider`. `Account Admins` can add a new `Job`.  Tapping on the **_Position Title_** will show you the `Job`'s details, which `Account Admins` will be able to **_Edit_**. The eye icon at the last column will allow `Account Admins` to hide the `Job` offer from `Students`, if needed.
+In the `Jobs` tab you can see a list of `Jobs` offered by the `Internship Provider`. `Account Admins` can add a new `Job`. Tapping on the **_Position Title_** will show you the `Job`'s details, which `Account Admins` will be able to **_Edit_**. The eye icon at the last column will allow `Account Admins` to hide the `Job` offer from `Students`, if needed.
 
 At the bottom of the window you have the button to **_Reset Password_**, if needed.
 

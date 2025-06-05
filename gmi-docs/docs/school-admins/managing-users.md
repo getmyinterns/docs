@@ -59,6 +59,3 @@ You can use the filter to choose between active `Seasons`.
 After approving or declining, the provider's status can be changed from **_Reports_** > **_Internship Providers_** (see [Reports - Internship Providers](/school-admins/reports#how-to-run-the-internship-providers-report) for more info) or from any other field where the Internship Provider's name appears clickable.
 
 :::
-
-
-

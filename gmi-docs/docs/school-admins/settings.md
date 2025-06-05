@@ -56,7 +56,6 @@ You can choose if a supervisor admin and/or supervisor can also approve pending 
 
 You can choose a number of internships to be informed by email when it has been reached.
 
-
 ## Timesheet Settings
 
 Manage your `Timesheet` preferences. You can configure fundamental aspects of the approved internships to suit your needs.
@@ -84,7 +83,6 @@ From `Timesheet Settings` you can:
 - `Student` confirmation extra message before submission
 - `Student` supervisor confirmation extra message before approval
 - Workplace supervisor confirmation extra message before approval
-
 
 ## Evaluation Settings
 
