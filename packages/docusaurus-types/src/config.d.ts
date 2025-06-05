@@ -136,6 +136,7 @@ export type FasterConfig = {
 
 export type FutureV4Config = {
   removeLegacyPostBuildHeadAttribute: boolean;
+  useCssCascadeLayers: boolean;
 };
 
 export type FutureConfig = {
@@ -462,8 +463,8 @@ export type Config = Overwrite<
     future?: Overwrite<
       DeepPartial<FutureConfig>,
       {
-        v4?: boolean | FutureV4Config;
-        experimental_faster?: boolean | FasterConfig;
+        v4?: boolean | Partial<FutureV4Config>;
+        experimental_faster?: boolean | Partial<FasterConfig>;
       }
     >;
   }

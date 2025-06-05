@@ -387,15 +387,10 @@ declare module '@docusaurus/plugin-content-blog' {
   };
 
   /**
-   * Duplicate from ngryman/reading-time to keep stability of API.
+   * Options for reading time calculation using Intl.Segmenter.
    */
   type ReadingTimeOptions = {
     wordsPerMinute?: number;
-    /**
-     * @param char The character to be matched.
-     * @returns `true` if this character is a word bound.
-     */
-    wordBound?: (char: string) => boolean;
   };
 
   /**
@@ -405,24 +400,22 @@ declare module '@docusaurus/plugin-content-blog' {
   export type ReadingTimeFunction = (params: {
     /** Markdown content. */
     content: string;
+    /** Locale for word segmentation. */
+    locale: string;
     /** Front matter. */
     frontMatter?: BlogPostFrontMatter & {[key: string]: unknown};
-    /** Options accepted by ngryman/reading-time. */
+    /** Options for reading time calculation. */
     options?: ReadingTimeOptions;
   }) => number;
 
   /**
-   * @returns The reading time directly plugged into metadata. `undefined` to
-   * hide reading time for a specific post.
+   * @returns The reading time directly plugged into metadata.
+   * `undefined` to hide reading time for a specific post.
    */
   export type ReadingTimeFunctionOption = (
-    /**
-     * The `options` is not provided by the caller; the user can inject their
-     * own option values into `defaultReadingTime`
-     */
     params: Required<Omit<Parameters<ReadingTimeFunction>[0], 'options'>> & {
       /**
-       * The default reading time implementation from ngryman/reading-time.
+       * The default reading time implementation.
        */
       defaultReadingTime: ReadingTimeFunction;
     },
@@ -528,9 +521,9 @@ declare module '@docusaurus/plugin-content-blog' {
       readingTime: ReadingTimeFunctionOption;
       /** Governs the direction of blog post sorting. */
       sortPosts: 'ascending' | 'descending';
-      /**	Whether to display the last date the doc was updated. */
+      /**	Whether to display the last date the blog post was updated. */
       showLastUpdateTime: boolean;
-      /** Whether to display the author who last updated the doc. */
+      /** Whether to display the author who last updated the blog post. */
       showLastUpdateAuthor: boolean;
       /** An optional function which can be used to transform blog posts
        *  (filter, modify, delete, etc...).
