@@ -12,7 +12,13 @@ Remember to click on **_Save_** at the bottom of the screen when you finish each
 
 ## Areas of Study
 
-See [Getting Started](/school-admins/getting-started) #2.
+The `Area of Study` is a category or field in which students focus their academic and internship pursuits. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districts call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to **_Configure_** > **_Area of Studies_**
+
+![Area of Study Name](images/area-of-study-name.png)
+
+Next you need to add at least one `Area of Study` as it is a required field for when students sign up. You can have as many as you need. You will relate these `Area of Studies` to each `School`. Click on **_Add New Area of Study_** button, fill in the name, and click **_Save_**. Repeat this steps for as many `Areas of Studies` you need.
+
+![Add Area of Study](images/add-area-of-study.png)
 
 ## Configurable Students Fields
 
@@ -28,7 +34,9 @@ If you tick on **_SMS Opt In_** or **_Email Opt In_**, you can choose the defaul
 
 ## Workflow Items
 
-You can choose to include criteria for the `Students` to be approved.
+If you have a process you follow to approve `Students`, you can use Workflow items to help you audit that process. See example below.
+
+![Reset Password](images/workflow%20items-example.png)
 
 **1.** Start by naming the group and clicking on **_Add Group_**.
 
@@ -42,13 +50,23 @@ You can choose to include criteria for the `Students` to be approved.
 
 :::info
 
-You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Pending - Students](/school-admins/managing-users#how-to-review-and-approve-student-accounts)). However, you can still approve the `Student` without checking this criteria.
+You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Manage Users - Students](/school-admins/managing-users#how-to-review-and-approve-student-accounts)). However, you can still approve the `Student` without checking this criteria.
 
 :::
 
 ## Schools
 
-See [Getting Started](/school-admins/getting-started) #3.
+You need to add all the schools that participate in your internship program, one by one and relate it to each `Area of Study` you have previously added. Go to **_Configure_** > **_Schools_** and press **_Add New School_**.
+
+![Add School](images/add-school.png)
+
+Enter the Name and Address, select the `Area of Studies` that this school is related to and specify the coordinator's email, name, and phone number for that `Area of Study` in that `School`. The email is used to let the coordinator know of every interview each student is scheduled for. Note that these values are optional and you can leave blank. When all done, click on **_Save_**. Repeat the steps for each school in your district.
+
+:::info
+
+Each `School` requires at least one `Area of Study` related to it. If some schools don't have an `Area of Study` you can create a generic `Other`, `Unknown`, etc `Area of Study` and relate it to that `School`.
+
+:::
 
 ## Events
 
@@ -56,7 +74,39 @@ You can use this tool for any event in which `Internship Providers` can particip
 
 ## Seasons
 
-See [Getting Started](/school-admins/getting-started) #4.
+`Seasons` are a designated period for internships. `Students`, `Internship Providers`, `Internships`, and everything related to them happens within the `Season`. `Students` and `Internship Providers` need to apply to each new `Season` in order to be able to participate within that period.
+
+:::warning
+
+The system requires to have at least one active `Season` in order for `Students` and `Internship Providers` to be able to register. If there isn't an active `Season` then registration is automatically disabled.
+
+:::
+
+To add a new `Season` go to **_Configure_** > **_Seasons_** and click on the **_Add New Season_** button. Specify a Name, Start and End Date.
+
+:::info
+
+The dates are not the dates the `Internships` take place, but rather the dates you want the users to start registering, want to find `Internships` and `Students` all the way through the actual `Internship` when `Students` submit `Timesheets` and `Providers` provide their `Evaluations`.
+
+:::
+
+![Add Season](images/add-season.png)
+
+After you have added the `Season`, you need to make it active by pressing the **_Make Active_** button.
+
+:::info
+
+You can only make a `Season` active as long as the dates are within today's date.
+
+:::
+
+:::info
+
+You can have multiple `Seasons` active at the same time. Some Schools/Districts want to have `Seasons` overlap so `Students` can start registering for the next `Season` while the current `Season` is ongoing.
+
+:::
+
+![Make Season Active](images/make-season-active.png)
 
 ## Grades
 
@@ -68,7 +118,7 @@ Set up the `Industries` for `Job` offers, according to your needs, from the give
 
 :::info
 
-Please let us know if you need other `Industries` to be added to the list.
+Please let us know if you need other `Industries` to be added to the list. Refer to [How to contact support](/how-to-contact).
 
 :::
 
@@ -97,12 +147,6 @@ Add `Admin Users` according to your needs.
 - `Supervisor`: user has access only to the schools, `Areas of Study` and `Students` selected. This restriction can be selected herein.
 
 You can also choose to send an email to the new `Admin User`.
-
-:::info
-
-Tapping on the icon to the right of any `Admin User` will let you impersonate that user. This feature os only available for `Account Admins`.
-
-:::
 
 ## Evaluations
 
