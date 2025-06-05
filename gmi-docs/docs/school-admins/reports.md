@@ -66,7 +66,7 @@ You can get a list of placed `Students`. Use the many filter fields to narrow th
 
 You can export the list if needed. Tap on the **_Map_** to see location distribution of placed `Students`.
 
-You can access the `Students` and `Internship Providers` details by tapping on their names.
+You can access the `Students` and `Internship Providers` details by tapping on their names (see details explanations on titles **How to run Students Reports** and **How to run Internship Providers Reports** above).
 
 Tapping on the **_Edit_** button will allow `Account Admins` to edit the `Internship`'s details, **_Terminate_** or **_Withdraw_** it.
 
@@ -74,8 +74,24 @@ The checkbox enables the **_Assign Supervisor_** button.
 
 ## How to Run the Pending Hires Report
 
-Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed.
+Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed. You can **_Approve_** or **_Decline_** the hire on behalf of the `Student`.
+
+![Reset Password](images/reports-pending-hires.png)
+
+You can access the `Students` and `Internship Providers` details by tapping on their names (see details explanations on titles **How to run Students Reports** and **How to run Internship Providers Reports** above).
 
 ## How to Run the Student Timesheets Report
+
+You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Settings-Timesheets](/school-admins/settings#timesheet-settings).
+
+You can export or print details report if needed.
+
 ## How to Run the Payroll Report
+
+You can get a `Payroll Report` by `Season`. Use the filters to narrow the search. You can export the list if needed.
+
+![Reset Password](images/reports-payrolls.png)
+
 ## How to Run the Student Evaluations Report
+
+You can get a `Students Evaluation Report` by `Season`. Use the filters to narrow the search. You can export the list, print or export details report, if needed.
