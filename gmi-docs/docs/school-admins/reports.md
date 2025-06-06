@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## How to Run the Interviews Report
 
-You can get a list of appointed `Interviews` by `Season`, filtering by `School` and dates.
+You can get a list of scheduled `Interviews` by `Season`, filtering by `School` and dates.
 
 ![Reset Password](images/reports-interviews-filter.png)
 

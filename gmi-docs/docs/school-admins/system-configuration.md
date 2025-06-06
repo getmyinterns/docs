@@ -70,7 +70,7 @@ Each `School` requires at least one `Area of Study` related to it. If some schoo
 
 ## Events
 
-You can use this tool for any event in which `Internship Providers` can participate to interview `Students`. When appointing interviews the active `Events` will appear as an option to hold the interviews.
+You can use this tool for any event in which `Internship Providers` can participate to interview `Students`. When scheduling interviews the active `Events` will appear as an option to hold the interviews.
 
 ## Seasons
 

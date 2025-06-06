@@ -38,11 +38,20 @@ If there are more that one `Seasons` available, you will need to choose which `S
 
 When your school's coordinator approves your registration, you will receive an email letting you know and you can click on the link and start setting up your profile.
 
-Click on **_Upcoming Interviews_**, and configure your availability for interviews. `Internship Providers` will have access to this availability to appoint interviews with you.
+Click on **_Upcoming Interviews_**, and configure your availability for interviews. `Internship Providers` will have access to this availability to schedule interviews with you.
 
 ![Reset Password](images/interviews-availability.png)
 
 ## Navigating Your Student Dashboard
 
+From the **_Home_** screen, click on **_My Info_** to edit your data or reset password, if needed.
 
+Click on **_My Admin_** to see and use the `Students` menu.
 
+![Reset Password](images/my-admin-my-info.png)
+
+You can toggle between active `Seasons` by clicking on the `Season` shown at the top right of the menu (see info box on **How to Set Up Your Student Profile** above). You can **_Apply_** to other `Seasons` from here.
+
+When in an applied `Season`, you can directly click on **_Apply_** to find internships, or on **_Schedule_** to see already scheduled interviews.
+
+![Reset Password](images/my-admin.png)
