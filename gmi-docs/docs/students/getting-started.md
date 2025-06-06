@@ -55,3 +55,6 @@ You can toggle between active `Seasons` by clicking on the `Season` shown at the
 When in an applied `Season`, you can directly click on **_Apply_** to find internships, or on **_Schedule_** to see already scheduled interviews.
 
 ![Reset Password](images/my-admin.png)
+
+If there are any **_Forms_** you need to fill out, click on **_Forms_** on the top menu and fill them out. You can ask your school's coordinator if you need to submit any forms appearing on this tab.
+
