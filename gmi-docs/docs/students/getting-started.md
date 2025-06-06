@@ -44,21 +44,5 @@ Click on **_Upcoming Interviews_**, and configure your availability for intervie
 
 ## Navigating Your Student Dashboard
 
-You are now ready to begin!
 
-You can search for internships of your interest by clicking on **_Internships - Find Internships**.
-
-![Reset Password](images/find-internships.png)
-
-You can fill in your location and the radius within which to search, the `Industry` you are interested in and you can even use a keyword to search. You can also search for a specific `Internship Providers` if you already know which one you are interested in.
-
-:::info
-
-`Industry` is the field of the `Job` offered or of business of an `Internship Provider`.
-
-:::
-
-You will see a list of `Job` offers and a map pinpointing their locations.
-
-Simply click on **_Apply_** to the right of the offer you are interested in. The `Internship Provider` will receive your application.
 
