@@ -30,14 +30,14 @@ Click on **_Internships - Applied Internships_** to get a list of `Internships` 
 
 ## How to Accept or Decline Internship Offers
 
-Click on **_My Offers_** to see a list of `Job` offers made by `Internship Provider`to you.
+Click on **_My Offers_** to see a list of `Job` offers made by `Internship Providers`to you.
 
 ![Reset Password](images/my-offers.png)
 
-Just click on the respective button to **_Approve_** or **_Decline_** the offer.
+Just click on the respective button to **_Accept Offer_** or **_Reject Offer_** the offer.
 
 :::info
 
-If the **_Approve_** and **_Decline_** buttons are not clickable, please contact your school supervisor to let them know you are interested in that specific offer.
+If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, please contact your school supervisor to let them know you are interested in that specific offer.
 
 :::
