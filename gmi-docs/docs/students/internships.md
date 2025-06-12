@@ -24,4 +24,20 @@ Simply click on **_Apply_** to the right of the offer you are interested in. The
 
 ## Tracking Your Internship Applications and Status
 
+Click on **_Internships - Applied Internships_** to get a list of `Internships` you have already applied to, and their status.
+
+![Reset Password](images/applied-internships.png)
+
 ## How to Accept or Decline Internship Offers
+
+Click on **_My Offers_** to see a list of `Job` offers made by `Internship Provider`to you.
+
+![Reset Password](images/my-offers.png)
+
+Just click on the respective button to **_Approve_** or **_Decline_** the offer.
+
+:::info
+
+If the **_Approve_** and **_Decline_** buttons are not clickable, please contact your school supervisor to let them know you are interested in that specific offer.
+
+:::
