@@ -34,7 +34,7 @@ Click on **_My Offers_** to see a list of `Job` offers made by `Internship Provi
 
 ![Reset Password](images/my-offers.png)
 
-Just click on the respective button to **_Accept Offer_** or **_Reject Offer_** the offer.
+Just click on the respective button to **_Accept Offer_** or **_Reject Offer_**.
 
 :::info
 
