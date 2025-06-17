@@ -36,7 +36,7 @@ You can choose to enable Clever so that `Students` can register to GetMyInterns 
 
 **5.** Enable self service job placements
 
-You can enable `Students` to accept `Jobs` proposals directly, without the need of approval. Bear in mind you need to also tick `Students` on point 8 below.
+You can enable `Students` to accept `Jobs` proposals directly, without the need of approval. Bear in mind you need to also enable `Students` on point 8 below.
 
 **6.** Enable `Internship Provider`agreement signature
 

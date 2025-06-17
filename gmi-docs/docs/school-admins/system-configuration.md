@@ -22,15 +22,15 @@ Next you need to add at least one `Area of Study` as it is a required field for 
 
 ## Configurable Students Fields
 
-Choose and set up the `Students` information according to your needs, by ticking the fields you want the `Students` to fill in, and choosing which fields are mandatory (required).
+Choose and set up the `Students` information according to your needs, by enabling the fields you want the `Students` to fill in, and choosing which fields are mandatory (required).
 
-If you tick on **_Data Sharing Consent_**, **_SMS Opt In_** or **_Email Opt In_**, you can edit the text to your liking and/or choose the default value, when applicable.
+If you enable **_Data Sharing Consent_**, **_SMS Opt In_** or **_Email Opt In_**, you can edit the text to your liking and/or choose the default value, when applicable.
 
 ## Configurable Providers Fields
 
-Choose and set up the `Internship Providers` information according to your needs, by ticking the fields you want the `Internship Providers` to fill in, and choosing which fields are mandatory (required).
+Choose and set up the `Internship Providers` information according to your needs, by enabling the fields you want the `Internship Providers` to fill in, and choosing which fields are mandatory (required).
 
-If you tick on **_SMS Opt In_** or **_Email Opt In_**, you can choose the default value.
+If you enable **_SMS Opt In_** or **_Email Opt In_**, you can choose the default value.
 
 ## Workflow Items
 
