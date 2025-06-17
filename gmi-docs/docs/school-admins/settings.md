@@ -24,11 +24,11 @@ You can deactivate the `Job` search if needed.
 
 **2.** Enable `Student` registration
 
-You can block `Students` from registering if needed.
+You can disable `Student` registration if needed.
 
 **3.** Enable `Student` approval
 
-The chosen admins will need to approve all `Student` registrations. If off, `Students` will directly be able to use the platform after registering.
+Enable this setting if you want the chosen admin roles in #9 below to manually approve all `Student` registrations. Otherwise, `Students` will be automatically approved after registering.
 
 **4.** Enable Clever
 
@@ -48,9 +48,9 @@ You can choose to use Jotforms platform to upload the Agreement and make it avai
 
 You can choose if a supervisor admin, supervisor and/or the `Student` can also approve or reject hires.
 
-**9.** Set up pending `Internship Providers` approval roles
+**9.** Set up pending `Internship Providers` and `Students` approval roles
 
-You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers`.
+You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`.
 
 **10.** Set up `Students` placements threshold
 
