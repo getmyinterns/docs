@@ -22,3 +22,4 @@ Each `Timesheet`comprises a week of `Internship`. Just click on the dates of the
 
 You can see the Status at the bottom left corner.
 
+Click on the **_Notes_** tab to check if there are any notes for you from your supervisor. 
