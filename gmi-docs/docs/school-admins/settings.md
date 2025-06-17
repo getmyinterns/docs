@@ -80,6 +80,10 @@ From `Timesheet Settings` you can:
 
 **6.** Set up extra messages
 
+Users will receive the default message shown in the image below for confirmation. But you can change it according to your needs.
+
+![Reset Password](images/timesheets-settings-confirmation-message.png)
+
 - `Student` confirmation extra message before submission
 - `Student` supervisor confirmation extra message before approval
 - Workplace supervisor confirmation extra message before approval
