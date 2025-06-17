@@ -26,13 +26,19 @@ The **Academy** is an `Area of Study`, a category or field in which you focus yo
 
 ## How to Set Up Your Student Profile
 
-After registering, you will need to wait for your school's coordinator to approve your registration. In the meantime you can upload your resume. `Internship Providers` will be able to see your resume.
+After registering, you will need to wait for your school's coordinator to approve your registration. In the meantime you can upload your resume. `Internship Providers` will be able to see it.
 
 ![Reset Password](images/after-registering.png)
 
 :::info
 
-If there are more that one `Seasons` available, you will need to choose which `Season` to apply to. This will allow you to participate in the program during that `Season`. You can choose more than one by clicking on the `Season` shown at the top menu on the photo above.
+If you don't see the message shown on the photo above, then you can start applying for a `Season` and using the platform directly.
+
+:::
+
+:::info
+
+If there are more that one `Season` available, you will need to choose which `Season` to apply to. This will allow you to participate in the program during that `Season`. You can choose more than one by clicking on the `Season` shown at the top menu on the photo above.
 
 :::
 
