@@ -50,7 +50,7 @@ You can choose if a supervisor admin, supervisor and/or the `Student` can also a
 
 **9.** Set up pending `Internship Providers` and `Students` approval roles
 
-You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`.
+You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`. (For details about these roles please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users))
 
 **10.** Set up `Students` placements threshold
 
