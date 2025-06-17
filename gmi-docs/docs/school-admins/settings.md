@@ -32,7 +32,7 @@ The chosen admins will need to approve all `Student` registrations. If off, `Stu
 
 **4.** Enable Clever
 
-You can choose to enable Clever so that `Students` can register to GetMyInterns using Clever single sing on. (See XXXXXX)
+You can choose to enable Clever so that `Students` can register to GetMyInterns using Clever single sing on.
 
 **5.** Enable self service job placements
 
@@ -40,7 +40,7 @@ You can enable `Students` to accept `Jobs` proposals directly, without the need 
 
 **6.** Enable `Internship Provider`agreement signature
 
-You can choose to use Jotforms platform to upload the Agreement and make it available to be signed online by the `Internship Provider`. (See XXXXXX)
+You can choose to use Jotforms platform to upload the Agreement and make it available to be signed online by the `Internship Provider`.
 
 **7.** Block offers to already placed `Students`
 
