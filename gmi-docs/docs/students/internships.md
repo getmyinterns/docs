@@ -38,6 +38,6 @@ Just click on the respective button to **_Accept Offer_** or **_Reject Offer_**.
 
 :::info
 
-If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, please contact your school supervisor to let them know you are interested in that specific offer.
+If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, please contact your coordinator to let them know you are interested in that specific offer.
 
 :::
