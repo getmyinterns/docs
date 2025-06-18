@@ -14,13 +14,13 @@ This step is only necessary if you have activated it from **_Settings_** > **_Ge
 
 **i.** Click on **_Pending_** > **_Students_**.
 
-![Reset Password](images/pending-students.png)
+![Pending Students](images/pending-students.png)
 
 You can use the filter to choose between active `Seasons`.
 
 **ii.** Click on the icon to the right of the student to be approved.
 
-![Reset Password](images/approve-students.png)
+![Approve Students](images/approve-students.png)
 
 :::info
 
@@ -30,7 +30,7 @@ Tap on either the First Name or Last Name of the student to review and edit data
 
 The students need to be approved for each active season they have applied to, either from the list of students, since each student will appear once for each season he has applied to, or from the `Seasons` tab.
 
-![Reset Password](images/approve-students-seasons-tab.png)
+![Students Seasons Tab](images/approve-students-seasons-tab.png)
 
 ## How to Review and Approve Internship Providers
 
@@ -42,7 +42,7 @@ You can choose other admins to also approve an `Internship Provider` from **_Set
 
 **i.** Click on **_Pending_** > **_Internship Providers_**.
 
-![Reset Password](images/pending-provider.png)
+![Pending Provider](images/pending-provider.png)
 
 You can use the filter to choose between active `Seasons`.
 
@@ -52,7 +52,7 @@ You can use the filter to choose between active `Seasons`.
 
 -Jobs can be reviewed from the `Jobs` tab, as well as add a new one. They can also be hidden from students view if necessary. Tapping on an existing job title will allow editing.
 
-![Reset Password](images/approve-provider-jobs-tab.png)
+![Provider Jobs Tab](images/approve-provider-jobs-tab.png)
 
 :::info
 

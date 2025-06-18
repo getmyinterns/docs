@@ -36,15 +36,15 @@ If you enable **_SMS Opt In_** or **_Email Opt In_**, you can choose the default
 
 If you have a process you follow to approve `Students`, you can use Workflow items to help you audit that process. See example below.
 
-![Reset Password](images/workflow%20items-example.png)
+![Workflow Items Example](images/workflow%20items-example.png)
 
 **1.** Start by naming the group and clicking on **_Add Group_**.
 
-![Reset Password](images/workflow-group%20name.png)
+![Workflow Group Name](images/workflow-group%20name.png)
 
 **2.** Choose the criteria for that group, by writing it on the box and clicking on **_Add Item_**.
 
-![Reset Password](images/workflow-item.png)
+![Workflow Item](images/workflow-item.png)
 
 **3.** Click on **_Save_** when you have completed all the groups and items.
 
@@ -126,9 +126,9 @@ Please let us know if you need other `Industries` to be added to the list. Refer
 
 You can fill in the content you want to appear on **_Home_**, **_About_** and **_Contact_**.
 
-![Reset Password](images/content-pages.png)
+![Content Pages](images/content-pages.png)
 
-![Reset Password](images/home.png)
+![Home](images/home.png)
 
 ## Forms
 
@@ -138,7 +138,7 @@ You can upload any forms you need the `Students` or `Internship Providers` to fi
 
 Add `Admin Users` according to your needs.
 
-![Reset Password](images/admin-users.png)
+![Admin Users](images/admin-users.png)
 
 `Admin Users`can be one of 3 types, and this role must be chosen when adding a new `Admin User`:
 
@@ -158,6 +158,6 @@ You need to set up these questions for each `Season`.
 
 :::
 
-![Reset Password](images/evaluations.png)
+![Evaluations](images/evaluations.png)
 
-![Reset Password](images/evaluation-questions.png)
+![Evaluation Questions](images/evaluation-questions.png)

@@ -8,21 +8,21 @@ sidebar_position: 5
 
 You can get a list of scheduled `Interviews` by `Season`, filtering by `School` and dates.
 
-![Reset Password](images/reports-interviews-filter.png)
+![Reports Interviews Filter](images/reports-interviews-filter.png)
 
 You can export the list if needed.
 
-![Reset Password](images/repports-interviews.png)
+![Reports Interviews](images/reports-interviews.png)
 
 ## How to Run the Jobs Report
 
 You can get a list of `Jobs` using the filter.
 
-![Reset Password](images/reports-jobs-filter.png)
+![Reports Jobs Filter](images/reports-jobs-filter.png)
 
 You can export the list if needed. Tapping on the number of **_Hired Students_** will show you the `Student`'s name, `School` and hire date.
 
-![Reset Password](images/reports-jobs.png)
+![Reports Jobs](images/reports-jobs.png)
 
 ## How to Run the Students Report
 
@@ -30,7 +30,7 @@ You can get a list of all `Students` participating in the program. Use the filte
 
 Tapping on the `Student`'s first or last name will open a window with different tabs.
 
-![Reset Password](images/reports-students-details.png)
+![Reports Students DEtails](images/reports-students-details.png)
 
 In the first tab you can view and **_Edit_** the `Student`'s details.
 
@@ -52,7 +52,7 @@ You can get a list of all `Internship Providers` participating in the program. U
 
 Tapping on the `Internship Provider`'s name will open a window with two tabs.
 
-![Reset Password](images/reports-providers-details.png)
+![Reports Providers Details](images/reports-providers-details.png)
 
 In the first tab you can view and **_Edit_** the `Internship Provider`'s details. You can **_Approve_** or **_Decline_** the `Internship Provider` for each active `Season` from here.
 
@@ -76,7 +76,7 @@ The checkbox enables the **_Assign Supervisor_** button.
 
 Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed. You can **_Approve_** or **_Decline_** the hire on behalf of the `Student`.
 
-![Reset Password](images/reports-pending-hires.png)
+![Reports Pending Hires](images/reports-pending-hires.png)
 
 You can access the `Students` and `Internship Providers` details by tapping on their names (see details explanations on titles **How to run Students Reports** and **How to run Internship Providers Reports** above).
 
@@ -90,7 +90,7 @@ You can export or print details report if needed.
 
 You can get a `Payroll Report` by `Season`. Use the filters to narrow the search. You can export the list if needed.
 
-![Reset Password](images/reports-payrolls.png)
+![Reports Payrolls](images/reports-payrolls.png)
 
 ## How to Run the Student Evaluations Report
 

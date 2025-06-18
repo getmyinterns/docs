@@ -14,7 +14,7 @@ Remember to click on **_Save_** at the bottom of the screen when you finish each
 
 Manage your account preferences and customize your experience with ease. In `General Settings`, you can configure fundamental aspects of your GetMyInterns.org account to suit your needs. Take control and optimize your internship management experience effortlessly.
 
-![Reset Password](images/settings-general.png)
+![Settings General](images/settings-general.png)
 
 From `General Settings` you can:
 
@@ -82,7 +82,7 @@ From `Timesheet Settings` you can:
 
 Users will receive the default message shown in the image below for confirmation. But you can change it according to your needs.
 
-![Reset Password](images/timesheets-settings-confirmation-message.png)
+![Timesheets Settings Confirm Message](images/timesheets-settings-confirmation-message.png)
 
 - `Student` confirmation extra message before submission
 - `Student` supervisor confirmation extra message before approval
@@ -98,7 +98,7 @@ Manage your `Evaluation` preferences for each `Season`.
 
 You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/school-admins/system-configuration#evaluations)).
 
-![Reset Password](images/evaluation-questions-from-providers-set-up.png)
+![Evaluation Questions](images/evaluation-questions-from-providers-set-up.png)
 
 **3.** Set up evaluation periods
 

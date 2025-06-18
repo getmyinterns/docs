@@ -8,7 +8,7 @@ sidebar_position: 2
 
 You can search for internships of your interest by clicking on **_Internships - Find Internships**.
 
-![Reset Password](images/find-internships.png)
+![Find Internships](images/find-internships.png)
 
 You can fill in your location and the radius within which to search, the `Industry` you are interested in and you can even use a keyword to search. You can also search for a specific `Internship Providers` if you already know which one you are interested in.
 
@@ -26,13 +26,13 @@ Simply click on **_Apply_** to the right of the offer you are interested in. The
 
 Click on **_Internships - Applied Internships_** to get a list of `Internships` you have already applied to, and their status.
 
-![Reset Password](images/applied-internships.png)
+![Applied Internships](images/applied-internships.png)
 
 ## How to Accept or Decline Internship Offers
 
 Click on **_My Offers_** to see a list of `Job` offers made by `Internship Providers`to you.
 
-![Reset Password](images/my-offers.png)
+![My Offers](images/my-offers.png)
 
 Just click on the respective button to **_Accept Offer_** or **_Reject Offer_**.
 

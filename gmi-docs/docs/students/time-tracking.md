@@ -8,7 +8,7 @@ sidebar_position: 4
 
 Click on **_Timesheets_** and then on **_Add New Timesheet_** to keep track of your `Internship` time data.
 
-![Reset Password](images/new-timesheet.png)
+![New Timesheet](images/new-timesheet.png)
 
 Enter the initial date of your `Internship` week and start filling in your data by ticking each date box. The columns to be filled may differ from the ones in the image, depending on the `Job` specifics.
 
@@ -22,4 +22,4 @@ Each `Timesheet`comprises a week of `Internship`. Just click on the dates of the
 
 You can see the Status at the bottom left corner.
 
-Click on the **_Notes_** tab to check if there are any notes for you from your supervisor. 
+Click on the **_Notes_** tab to check if there are any notes for you from your supervisor.
