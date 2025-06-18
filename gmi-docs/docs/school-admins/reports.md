@@ -14,6 +14,8 @@ You can export the list if needed.
 
 ![Reports Interviews](images/reports-interviews.png)
 
+Chosen `Admin Users` (see [Admin Users](/school-admins/system-configuration#admin-users) for details) will receive an email letting them know that a `Student` has accepted an offer so pending `Interviews` ara cancelled, and the corresponding `Internship Providers` will also be notified.
+
 ## How to Run the Jobs Report
 
 You can get a list of `Jobs` using the filter.
@@ -74,7 +76,7 @@ The checkbox enables the **_Assign Supervisor_** button.
 
 ## How to Run the Pending Hires Report
 
-Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed. You can **_Approve_** or **_Decline_** the hire on behalf of the `Student`.
+Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed. You can **_Approve_** or **_Decline_** the hire on behalf of the `Student`. The `Student` and `Internship Provider` will receive an email stating the `Internship` has been approved or rejected.
 
 ![Reports Pending Hires](images/reports-pending-hires.png)
 
@@ -85,6 +87,8 @@ You can access the `Students` and `Internship Providers` details by tapping on t
 You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Settings-Timesheets](/school-admins/settings#timesheet-settings).
 
 You can export or print details report if needed.
+
+Chosen `Admin Users` (see [Admin Users](/school-admins/system-configuration#admin-users) for details) will receive an email when a `Student's Timesheet` has been submitted for approval.
 
 ## How to Run the Payroll Report
 

@@ -12,6 +12,8 @@ This step is only necessary if you have activated it from **_Settings_** > **_Ge
 
 :::
 
+Every time a new `Student` registers, `Admin Users` (see [Admin Users](/school-admins/system-configuration#admin-users) for details) will receive an email.
+
 **i.** Click on **_Pending_** > **_Students_**.
 
 ![Pending Students](images/pending-students.png)

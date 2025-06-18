@@ -38,6 +38,8 @@ Just click on the respective button to **_Accept Offer_** or **_Reject Offer_**.
 
 :::info
 
-If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, please contact your internship coordinator to let them know you are interested in that specific offer.
+If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, please contact your internship coordinator to let them know you are interested in that specific offer. If this is the case, you will receive an email when the offer has been approved or rejected.
 
 :::
+
+When you accept an offer you will receive an email letting you know all pending `Interviews` have been cancelled, and the corresponding `Internship Providers` will also be notified as well as when you reject an offer.

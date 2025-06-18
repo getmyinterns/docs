@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ## Managing Your Upcoming Interviews
 
-Click on **_Upcoming Interviews_** to see a list of them, with date, name of the `Internship Provider`, job, time, address and contact info.
+You will receive an email when an `Internship Provider` schedules an `Interview`.
+
+On the platform, click on **_Upcoming Interviews_** to see a list of them, with date, name of the `Internship Provider`, job, time, address and contact info.
 
 ![Upcoming Interviews](images/upcoming-interviews.png)
 

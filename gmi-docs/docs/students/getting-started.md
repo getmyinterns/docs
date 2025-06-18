@@ -36,13 +36,15 @@ If you don't see the message shown on the photo above, then you can start applyi
 
 :::
 
+When your school's coordinator approves your registration, you will receive an email letting you know and you can click on the link and start setting up your profile, by choosing the `Season` first.
+
 :::info
 
 If there are more that one `Season` available, you will need to choose which `Season` to apply to. This will allow you to participate in the program during that `Season`. You can choose more than one by clicking on the `Season` shown at the top menu on the photo above.
 
 :::
 
-When your school's coordinator approves your registration, you will receive an email letting you know and you can click on the link and start setting up your profile.
+You will receive an email when your application for a `Season` has been approved.
 
 Click on **_Upcoming Interviews_**, and configure your availability for interviews. `Internship Providers` will have access to this availability to schedule interviews with you.
 

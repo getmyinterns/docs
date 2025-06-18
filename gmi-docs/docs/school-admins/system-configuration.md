@@ -136,7 +136,7 @@ You can upload any forms you need the `Students` or `Internship Providers` to fi
 
 ## Admin Users
 
-Add `Admin Users` according to your needs.
+Add `Admin Users` according to your needs. They will receive an email letting them know their account has been created.
 
 ![Admin Users](images/admin-users.png)
 
