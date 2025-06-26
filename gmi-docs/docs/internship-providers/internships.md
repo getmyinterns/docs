@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Finding and Managing Internships
+# Finding and Managing Interns
 
-## How to Search and Apply for Internships
+## How to Search for Interns and Offer Jobs
 
-## Tracking Your Internship Applications and Status
+## Tracking Your Job Offers
 
-## How to Accept or Decline Internship Offers
+## How to Accept or Decline Internship Applications
