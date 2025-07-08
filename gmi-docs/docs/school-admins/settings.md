@@ -46,11 +46,11 @@ You can choose to use Jotforms platform to upload the Agreement and make it avai
 
 **8.** Set up approval and rejection roles
 
-You can choose if a supervisor admin, supervisor and/or the `Student` can also approve or reject hires.
+You can choose if a supervisor admin, supervisor and/or the `Student` can also approve or reject hires. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
 
 **9.** Set up pending `Internship Providers` and `Students` approval roles
 
-You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`. (For details about these roles please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users))
+You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
 
 **10.** Set up `Students` placements threshold
 
