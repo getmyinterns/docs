@@ -42,4 +42,8 @@ If the **_Accept Offer_** and **_Reject Offer_** buttons are not clickable, plea
 
 :::
 
+If the offer is approved, you will see this screen when signing in to your account.
+
+![Internship Approved](images/internship-approved.png)
+
 When you accept an offer you will receive an email letting you know all pending `Interviews` have been cancelled, and the corresponding `Internship Providers` will also be notified as well as when you reject an offer.
