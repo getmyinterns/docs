@@ -28,7 +28,7 @@ You can export the list if needed. Tapping on the number of **_Hired Students_**
 
 ## How to Run the Students Report
 
-You can get a list of all `Students` participating in the program. Use the filter to narrow the search by `Pending Students` or `School`, among other. Choose the columns you want to appear for your list. `Account Admins` can add a new `Student`. You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Students`.
+You can get a list of all `Students` participating in the program. Use the filter to narrow the search by `Pending Students` or `School`, among other. Choose the columns you want to appear for your list. `Account Admins` can add a new `Student` and they will receive an email. You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Students`. You will receive an email every time a new `Student` signs up.
 
 Tapping on the `Student`'s first or last name will open a window with different tabs.
 
@@ -40,7 +40,7 @@ The `Workflow` tab will help you tick the previously filled criteria to approve 
 
 There is a **_Notes_** tab to allow you to freely enter any text you may need.
 
-You can see a list of `Internships` in the `Internships` tab, and approve or decline if necessary. `Account Admins` can also add an `Internship` yourself and notify the `Student` and `Internship Provider`.
+You can see a list of `Internships` in the `Internships` tab, and approve or decline if necessary. `Account Admins` can also add an `Internship` themselves and notify the `Student` and `Internship Provider`.
 
 On the `Seasons` tab, you can see the `Student`'s status for active `Seasons`, and approve or decline the `Student`.
 
@@ -50,7 +50,9 @@ At the bottom of the window you have the button to **_Reset Password_**, if need
 
 ## How to Run the Internship Providers Report
 
-You can get a list of all `Internship Providers` participating in the program. Use the filter to narrow the search by `Seasons` or status, among other. Choose the columns you want to appear for your list. `Account Admins` can add a new `Internship Provider`. You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Internship Provider`.
+You can get a list of all `Internship Providers` participating in the program. Use the filter to narrow the search by `Seasons` or status, among other. Choose the columns you want to appear for your list. `Account Admins` can add a new `Internship Provider` and they will receive an email. You will also receive an email every time an `Internship Provider`signs up.
+
+You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Internship Provider`.
 
 Tapping on the `Internship Provider`'s name will open a window with two tabs.
 

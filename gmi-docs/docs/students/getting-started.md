@@ -24,6 +24,8 @@ The **Academy** is an `Area of Study`, a category or field in which you focus yo
 
 :::
 
+An `Admin User` can also sign you up, in which case you will receive an email.
+
 ## How to Set Up Your Student Profile
 
 After registering, you will need to wait for your school's coordinator to approve your registration. In the meantime you can upload your resume. `Internship Providers` will be able to see it.
