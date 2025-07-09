@@ -13,5 +13,3 @@ On the platform, click on **_Upcoming Interviews_** to see a list of them, with 
 ![Upcoming Interviews](images/upcoming-interviews.png)
 
 You can configure or edit your general interview availability by clicking on the **_Configure_** button, to let `Internship Providers` know when to schedule one.
-
-## How to Prepare for Internship Interviews
