@@ -18,6 +18,8 @@ Click on **_Register_** and then on `Internship Providers` to create your accoun
 
 You can add more than one `Job` post clicking on the yellow button.
 
+An `Admin User` can also sign you up, in which case you will receive an email.
+
 ## How to Set Up Your Provider Profile
 
 After registering, you may need to choose a `Season` to apply to, if there are more than one active `Season` available.
