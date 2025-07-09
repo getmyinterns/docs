@@ -22,6 +22,8 @@ You can schedule an `Interview`, offer the `Job` directly or **_Reject_** the ap
 
 When scheduling an `Interview`, you will see the `Student's` availability, and you can choose location, date and time.
 
+The `Student` will receive an email with the details. You will receive an email if the interview is cancelled.
+
 :::info
 
 `Event` in the **_Schedule_** `Internship` screen refers to any event in which `Internship Providers` can participate to interview `Students`. When scheduling interviews the active `Events` will appear as an option to hold the interviews.
@@ -33,3 +35,4 @@ When scheduling an `Interview`, you will see the `Student's` availability, and y
 ![Schedule Interview](images/schedule-interview2.png)
 
 ## Tracking your Interviews
+
