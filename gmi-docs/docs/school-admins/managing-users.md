@@ -50,11 +50,11 @@ You can use the filter to choose between active `Seasons`.
 
 **ii.** Click on a name from the list to review, edit, approve or decline.
 
--The `Internship Provider` needs to be approved for each active `Season` it has applied to, either from the list of providers, since it will appear once for each season it has applied to, or from the `Details` tab.
+-The `Internship Provider` needs to be approved for each active `Season` it has applied to, either from the list of providers, since it will appear once for each season it has applied to, or from the `Seasons` tab.
 
 -Jobs can be reviewed from the `Jobs` tab, as well as add a new one. They can also be hidden from students view if necessary. Tapping on an existing job title will allow editing.
 
-![Provider Jobs Tab](images/approve-provider-jobs-tab.png)
+![Provider Jobs Tab](images/provider-jobs-tab.png)
 
 :::info
 
