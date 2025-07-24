@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ## How to Schedule Interviews with Students
 
+Toggle between active `Seasons` from the menu above, if you have applied for more than one.
+
 Click on **_Hire - Find Interns_**. You can select `School`, `Area of Study`, Grade, Radius and exclude already scheduled `Students`. For multiple selection, press the Ctrl or Shift key or CMD, depending on your device.
 
 ![Find Interns](images/find-interns.png)
@@ -20,7 +22,7 @@ You will see a list of Students who have applied for your `Job` offer.
 
 You can schedule an `Interview`, offer the `Job` directly or **_Reject_** the application, from the buttons on the right.
 
-When scheduling an `Interview`, you will see the `Student's` availability, and you can choose location, date and time.
+When scheduling an `Interview`, you will see the `Student's` availability, and you can choose location, date and time. After scheduling, the `Interview` button will be greyed out.
 
 The `Student` will receive an email with the details. You will receive an email if the interview is cancelled.
 
@@ -36,3 +38,6 @@ The `Student` will receive an email with the details. You will receive an email 
 
 ## Tracking your Interviews
 
+Click on **_Hire - Interviews_** to see a list of `Interviews`. Use the filter to choose the `Season` and/or a start and end date for the search. You can cancel them from the button on the right if needed.
+
+You can also offer the job or reject the `Student`.
