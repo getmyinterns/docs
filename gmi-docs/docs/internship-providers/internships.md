@@ -61,3 +61,9 @@ Click on **_Hire - Job Offers_** to see a list with their statuses.
 You can reject the offer by clicking on the red button to the right.
 
 You will receive an email when the offer is approved or declined.
+
+## My Interns
+
+Toggle between active `Seasons` from the menu above, if you have applied for more than one.
+
+Click on **_Interns - My Interns_** on the menu to see a list of `Students` already hired and their data.
