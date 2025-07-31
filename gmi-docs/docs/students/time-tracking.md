@@ -18,9 +18,9 @@ Ask your school coordinator about the specifics to fill in the **_Desccription_*
 
 ## Viewing Past Timesheets and Statuses
 
-Each `Timesheet`comprises a week of `Internship`. Just click on the dates of the week to open the details for such week. Click on **_Edit_** to keep filling in other empty days or change already filled in ones, and click on **_Save_** or **_Save and Submit_**. Edition is only available when the `Timesheet` has not been submitted yet.
+Each `Timesheet`comprises a week of `Internship`. Just click on the dates of the week to open the details for such week. Click on **_Edit_** to keep filling in other empty days or change already filled in ones, and click on **_Save_** or **_Save and Submit_**. Edition is only available when the `Timesheet` has not been submitted yet, or if it has been rejected.
 
-You can see the Status at the bottom left corner. In case the `Timesheet` is rejected, you will receive an email.
+You can see the Status at the bottom left corner. In case the `Timesheet` is rejected, you will receive an email, and you can go back to edit it and resubmit.
 
 Click on the **_Notes_** tab to check if there are any notes for you from your supervisor.
 
