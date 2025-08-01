@@ -132,7 +132,13 @@ You can fill in the content you want to appear on **_Home_**, **_About_** and **
 
 ## Forms
 
-You can upload any forms you need the `Students` or `Internship Providers` to fill in and sign, and have them do that from the platform directly. Tap on **_Add New Form_** and fill in the fields. Tap on **_Examine_** to upload the form from your device.
+You can upload any forms you need the `Students` or `Internship Providers` to read. You can use this section to upload forms that require the user to fill in. Tap on **_Add New Form_** and fill in the fields. Tap on **_Examine_** to upload the form from your device.
+
+:::warning
+
+The system does not automatically submit these forms, the user will need to download, fill them in, and submit them through other means, such as email.
+
+:::
 
 ## Admin Users
 
@@ -140,17 +146,17 @@ Add `Admin Users` according to your needs. They will receive an email letting th
 
 ![Admin Users](images/admin-users.png)
 
-`Admin Users`can be one of 3 types, and this role must be chosen when adding a new `Admin User`:
+`Admin Users` can be one of 3 types, and this role must be chosen when adding a new `Admin User`:
 
 - `Account Admin`: user has access to all features and configurations, all `Students` and `Internship Providers`.
-- `Supervisor Admin`: user has access to all `Students` and `Internship Providers`, but cannot make changes to configurations.
+- `Supervisor Admin`: user has access to all `Students` and `Internship Providers`, but cannot make changes to configurations or settings.
 - `Supervisor`: user has access only to the schools, `Areas of Study` and `Students` selected. This restriction can be selected herein.
 
 You can also choose to send an email to the new `Admin User`.
 
 ## Evaluations
 
-Set up the questions you will need an answer to, to evaluate the `Students`. Choose the answer to be free text, number, single select or multi select. Choose the text and values according to your needs.
+You can use Evaluations to have the providers grade the student's performance during their internship. Set up the questions you will need an answer to, to evaluate the `Students`. Choose the answer to be free text, number, single select or multi select. Choose the text and values according to your needs.
 
 :::info
 
