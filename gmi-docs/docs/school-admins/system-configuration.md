@@ -110,7 +110,7 @@ You can have multiple `Seasons` active at the same time. Some Schools/Districts 
 
 ## Grades
 
-Set up the `Students` from which grades can participate in the program and the cut-off date.
+Set up the `Grades` from which students can participate in the program as well as the cut-off date, which is used to calculate the student's graduation date.
 
 ## Industries
 
