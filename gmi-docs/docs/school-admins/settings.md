@@ -12,7 +12,7 @@ Remember to click on **_Save_** at the bottom of the screen when you finish each
 
 ## General Settings
 
-Manage your account preferences and customize your experience with ease. In `General Settings`, you can configure fundamental aspects of your GetMyInterns.org account to suit your needs. Take control and optimize your internship management experience effortlessly.
+Manage your account preferences and customize your experience with ease. In `General Settings`, you can configure fundamental aspects of your `GetMyInterns` account to suit your needs. Take control and optimize your internship management experience effortlessly.
 
 ![Settings General](images/settings-general.png)
 
