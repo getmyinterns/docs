@@ -99,7 +99,7 @@ The admin dashboard provides a clear view of your internship program at a glance
 - **User Management**: Add or remove admin users with role-based access.
 - **Configuration Shortcuts**: Quickly jump to workflows, settings, and reports from the left navigation panel.
 
-To learn more about specific areas of the dashboard, check out our [Admin Reports Guide](#), [System Configuration Guide](#), and [Timesheet Setup Help](#).
+To learn more about specific areas of the dashboard, check out our [Admin Reports Guide](/school-admins/reports), [System Configuration Guide](/school-admins/system-configuration), and [Timesheet Setup Help](/school-admins/settings#timesheet-settings).
 
 ---
 
