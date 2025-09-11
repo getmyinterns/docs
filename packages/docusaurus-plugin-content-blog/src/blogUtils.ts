@@ -210,8 +210,8 @@ async function parseBlogPostMarkdownFile({
   }
 }
 
-const defaultReadingTime: ReadingTimeFunction = ({content, options}) =>
-  calculateReadingTime(content, options);
+const defaultReadingTime: ReadingTimeFunction = ({content, locale, options}) =>
+  calculateReadingTime(content, locale, options);
 
 async function processBlogSourceFile(
   blogSourceRelative: string,
@@ -323,7 +323,9 @@ async function processBlogSourceFile(
     } else if (typeof editUrl === 'string') {
       const isLocalized = blogDirPath === contentPaths.contentPathLocalized;
       const fileContentPath =
-        isLocalized && options.editLocalizedFiles
+        isLocalized &&
+        options.editLocalizedFiles &&
+        contentPaths.contentPathLocalized
           ? contentPaths.contentPathLocalized
           : contentPaths.contentPath;
 
@@ -373,6 +375,7 @@ async function processBlogSourceFile(
             content,
             frontMatter,
             defaultReadingTime,
+            locale: i18n.currentLocale,
           })
         : undefined,
       hasTruncateMarker: truncateMarker.test(content),

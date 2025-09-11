@@ -64,13 +64,27 @@ async function tryOpenWithAppleScript({
         'Brave Browser',
         'Vivaldi',
         'Chromium',
+        'Arc',
       ];
 
       // Among all the supported browsers, retrieves to stdout the active ones
       const command = `ps cax -o command | grep -E "^(${supportedChromiumBrowsers.join(
         '|',
       )})$"`;
-      const result = await execPromise(command);
+
+      const result = await Promise
+        // TODO Docusaurus v4: use Promise.try()
+        // See why here https://github.com/facebook/docusaurus/issues/11204#issuecomment-3073480330
+        .resolve()
+        .then(() => execPromise(command))
+        .catch(() => {
+          // Ignore all errors
+          // In particular grep errors when macOS user has no Chromium-based browser open
+          // See https://github.com/facebook/docusaurus/issues/11204
+        });
+      if (!result) {
+        return [];
+      }
 
       const activeBrowsers = result.stdout.toString().trim().split('\n');
 
