@@ -4,19 +4,15 @@ sidebar_position: 2
 
 # Finding and Managing Internships
 
+Please note, that in order to apply for internships your `school/district` might need to approve you [first](getting-started).
+
 ## How to Search and Apply for Internships
 
-You can search for internships of your interest by clicking on **_Internships - Find Internships**.
+You can search for internships of your interest by clicking on **_Internships - Find Internships_** within the menu.
 
 ![Find Internships](images/find-internships.png)
 
 You can fill in your location and the radius within which to search, the `Industry` you are interested in and you can even use a keyword to search. You can also search for a specific `Internship Providers` if you already know which one you are interested in.
-
-:::info
-
-`Industry` is the field of the `Job` offered or of business of an `Internship Provider`.
-
-:::
 
 You will see a list of `Job` offers and a map pinpointing their locations.
 
@@ -30,7 +26,7 @@ Click on **_Internships - Applied Internships_** to get a list of `Internships` 
 
 ## How to Accept or Decline Internship Offers
 
-Click on **_My Offers_** to see a list of `Job` offers made by `Internship Providers`to you.
+Click on **_My Offers_** to see a list of `Job` offers made by `Internship Providers` to you.
 
 ![My Offers](images/my-offers.png)
 
