@@ -12,77 +12,101 @@ Remember to click on **_Save_** at the bottom of the screen when you finish each
 
 ## General Settings
 
-Manage your account preferences and customize your experience with ease. In `General Settings`, you can configure fundamental aspects of your `GetMyInterns` account to suit your needs. Take control and optimize your internship management experience effortlessly.
+Manage your account preferences and customize the platform through `General Settings`. You can configure fundamental aspects of your `GetMyInterns` account to suit your needs.
 
 ![Settings General](images/settings-general.png)
 
-From `General Settings` you can:
+### Enable Job search
 
-**1.** Enable `Job` search
+You can control whether students can search for internships by enabling or disabling `Job Search`.
 
-You can deactivate the `Job` search if needed.
+### Enable Student registration
 
-**2.** Enable `Student` registration
+You can control whether students can register. For example, you might want to turn off `Student Registration` during off season to avoid confusion.
 
-You can disable `Student` registration if needed.
+### Enable Student approval
 
-**3.** Enable `Student` approval
+Enable this setting if you want the [chosen admin roles](#roles-allowed-to-approvedecline-pending-students) to manually approve all `Student` registrations. Otherwise, `Students` will be automatically approved after registering.
 
-Enable this setting if you want the chosen admin roles in #9 below to manually approve all `Student` registrations. Otherwise, `Students` will be automatically approved after registering.
-
-**4.** Enable Clever
+### Enable Clever
 
 You can choose to enable Clever so that `Students` can register to GetMyInterns using Clever single sing on.
 
-**5.** Enable self service job placements
+### Enable self service job placements
 
-You can enable `Students` to accept `Jobs` proposals directly, without the need of approval. Bear in mind you need to also enable `Students` on point 8 below.
+You can enable `Students` to accept `Job` offers directly, without the need of approval. Bear in mind you need to also enable `Students` on [Hire Approval Roles](#hire-approval-roles) and [Hire Rejection Roles](#hire-rejection-roles)
 
-**6.** Enable `Internship Provider`agreement signature
+### Enable Internship Provider Agreement Signature
 
-You can choose to use Jotforms platform to upload the Agreement and make it available to be signed online by the `Internship Provider`.
+You can choose to use Jotforms platform to upload the Agreement and make it available to be signed online by the `Internship Provider`. When this is enabled and configured correctly, Internship Providers will see the uploaded agreement right after registration. Please note that signature of the agreement is not a requirement to approve an `Internship Provider`. It is up to the admin users to verify the agreement has been completed.
 
-**7.** Block offers to already placed `Students`
+### Block Offers to Already Placed Students
 
-**8.** Set up approval and rejection roles
+When enabled, it prevents internship providers from offering a job to students already placed in an internship.
 
-You can choose if a supervisor admin, supervisor and/or the `Student` can also approve or reject hires. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
+### Hire Approval Roles
 
-**9.** Set up pending `Internship Providers` and `Students` approval roles
+You can choose which admin role is allowed to accept job offers or whether `Students` can also accept them. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
 
-You can choose if a supervisor admin and/or supervisor can also approve pending `Internship Providers` and `Students`. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
+### Hire Rejection Roles
 
-**10.** Set up `Students` placements threshold
+You can choose which admin role is allowed to reject job offers or whether `Students` can also reject them. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
 
-You can choose a number of internships to be informed by email when it has been reached.
+### Roles Allowed To Approve/Decline Pending Providers
+
+You can choose which role is allowed to Approve or Decline pending students. Account Admins, as the super admin, will always have access to do so. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
+
+### Roles Allowed To Approve/Decline Pending Students
+
+You can choose which role is allowed to Approve or Decline pending students. Account Admins, as the super admin, will always have access to do so. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
+
+### Students Placements Threshold
+
+If you want to be informed via email when a number of placed students is reached, you can configure this setting. Please note you can have multiple thresholds. Only Account Admins will be notified.
 
 ## Timesheet Settings
 
-Manage your `Timesheet` preferences. You can configure fundamental aspects of the approved internships to suit your needs.
+Manage your `Timesheet` preferences.
 
-From `Timesheet Settings` you can:
+### Enable Timesheets
 
-**1.** Enable `Timesheet`
+Global flag to enable/disable timesheets.
 
-**2.** Choose who approves the `Timesheet` and/or the order of approval
+### Approver(s)
 
-**3.** Set up workday specifics
+You can configure who needs to approve the timesheets and in which order. You always need at least one approver:
 
-- Enforce total breaks min length and select time in minutes
-- Enforce workday total hours max length and select time in minutes
+- **Workplace Supervisor**: this could be `Internship Provider` user who signed up to the system or the one specified by the admin user through the `Internship` detail modal.
+- **Student Supervisor**: this could be any Admin user who has access to the student or the one assigned through the `Student` detail modal.
+- **First Workplace Supervisor and then Student Supervisor**: This specifies that the Workplace Supervisor will need to approve the timesheet first and then the Student Supervisor. The Student Supervisor won't be able to approve the timesheet until it is first approved by the Workplace Supervisor.
+- **First Student Supervisor and then Workplace Supervisor**: This specifies that the Student Supervisor will need to approve the timesheet first and then the Workplace Supervisor. The Workplace Supervisor won't be able to approve the timesheet until it is first approved by the Student Supervisor.
 
-**4.** Set up breaks
+### Workday
 
-- Set up Break 1 and choose time in minutes, if applicable
-- Set up Break 2 and choose time in minutes, if applicable
+- **Enforce Total Breaks Min Length**: this setting makes sure that all breaks for the day add up to the specified `Total Breaks Min Length`.
+- **Total Breaks Min Length**: the minimum number of minutes on a given day (accross all breaks) the student needs.
+- **Enforce Workday Total Hours Max Length**: this setting makes sure that the `Workday Total Hours Max Length` is not surpassed.
+- **Workday Total Hours Max Length**: the maximum number of minutes a student is allowed to work on a given day.
 
-**5.** Enable or require descriptions of each workday
+### Break 1
 
-**6.** Set up extra messages
+Setup whether the first break is enabled, required, and whether there should be an enforced minimum number of minutes for it.
 
-Users will receive the default message shown in the image below for confirmation. But you can change it according to your needs.
+### Break 2
+
+Setup whether the second break is enabled, required, and whether there should be an enforced minimum number of minutes for it.
+
+### Descriptions Each Workday
+
+Configured whether the student will need to enter a description of what they worked on that day and whether it is required or not.
+
+### Messages
+
+Users will receive the default message shown in the image below for confirmation, but you can append any extra message according to your needs.
 
 ![Timesheets Settings Confirm Message](images/timesheets-settings-confirmation-message.png)
+
+There are 3 extra messages you can configure:
 
 - `Student` confirmation extra message before submission
 - `Student` supervisor confirmation extra message before approval
@@ -92,15 +116,18 @@ Users will receive the default message shown in the image below for confirmation
 
 Manage your `Evaluation` preferences for each `Season`.
 
-**1.** Choose `Season`
+### Season
 
-**2.** Enable `Evaluations`
+Choose the `Season` you want to configure.
 
-You can configure the questions for the evaluation clicking on the link (See [System Configuration - Evaluations](/school-admins/system-configuration#evaluations)).
+### Enable Evaluations
 
-![Evaluation Questions](images/evaluation-questions-from-providers-set-up.png)
+Global flag to enable/disable evaluations.
 
-**3.** Set up evaluation periods
+See [System Configuration - Evaluations](/school-admins/system-configuration#evaluations) for more information on how to configure evaluation questions.
 
-- Quantity
-- Name and dates
+### Periods
+
+You can configure how many evaluations the `Internship Providers` perform during the seasons. These are controlled by `Periods`, which reprent the start and end date of when the `Internship Providers` can fill out the `Evaluations`.
+
+Start by specifying how many periods, providing a name, the start and end date.
