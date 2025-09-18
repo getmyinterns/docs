@@ -16,15 +16,15 @@ Manage your account preferences and customize the platform through `General Sett
 
 ![Settings General](images/settings-general.png)
 
-### Enable Job search
+### Enable Job Search
 
 You can control whether students can search for internships by enabling or disabling `Job Search`.
 
-### Enable Student registration
+### Enable Student Registration
 
 You can control whether students can register. For example, you might want to turn off `Student Registration` during off season to avoid confusion.
 
-### Enable Student approval
+### Enable Student Approval
 
 Enable this setting if you want the [chosen admin roles](#roles-allowed-to-approvedecline-pending-students) to manually approve all `Student` registrations. Otherwise, `Students` will be automatically approved after registering.
 
@@ -32,7 +32,7 @@ Enable this setting if you want the [chosen admin roles](#roles-allowed-to-appro
 
 You can choose to enable Clever so that `Students` can register to GetMyInterns using Clever single sing on.
 
-### Enable self service job placements
+### Enable Self Service Job Placements
 
 You can enable `Students` to accept `Job` offers directly, without the need of approval. Bear in mind you need to also enable `Students` on [Hire Approval Roles](#hire-approval-roles) and [Hire Rejection Roles](#hire-rejection-roles)
 

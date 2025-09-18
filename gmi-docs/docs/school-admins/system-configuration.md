@@ -10,7 +10,7 @@ Remember to click on **_Save_** at the bottom of the screen when you finish each
 
 :::
 
-## Areas of Study
+## Areas of Studies
 
 The `Area of Study` is a category or field in which students focus their academic and internship pursuits. At least one `Area of Study` is required. Since different schools/districts have different names for it, you can configure the name first. Some schools/districts call them `Academies`, `Pathways`, `Tracks`, `Concentrations`, etc. You will need to configure the singular and plural name for it first by going to **_Configure_** > **_Area of Studies_**
 
@@ -20,13 +20,13 @@ Next you need to add at least one `Area of Study` as it is a required field for 
 
 ![Add Area of Study](images/add-area-of-study.png)
 
-## Configurable Students Fields
+## Configurable Student Fields
 
 Choose and set up the `Students` information according to your needs, by enabling the fields you want the `Students` to fill in, and choosing which fields are mandatory (required).
 
 If you enable **_Data Sharing Consent_**, **_SMS Opt In_** or **_Email Opt In_**, you can edit the text to your liking and/or choose the default value, when applicable.
 
-## Configurable Providers Fields
+## Configurable Provider Fields
 
 Choose and set up the `Internship Providers` information according to your needs, by enabling the fields you want the `Internship Providers` to fill in, and choosing which fields are mandatory (required).
 
@@ -38,19 +38,25 @@ If you have a process you follow to approve `Students`, you can use Workflow ite
 
 ![Workflow Items Example](images/workflow%20items-example.png)
 
-**1.** Start by naming the group and clicking on **_Add Group_**.
+1. Start by naming the group and clicking on **_Add Group_**.
 
 ![Workflow Group Name](images/workflow-group%20name.png)
 
-**2.** Choose the criteria for that group, by writing it on the box and clicking on **_Add Item_**.
+2. Add each item within that group by typing it on the box and clicking on **_Add Item_**.
 
 ![Workflow Item](images/workflow-item.png)
 
-**3.** Click on **_Save_** when you have completed all the groups and items.
+3. Click on **_Save_** when you have completed all the groups and items.
 
 :::info
 
 You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Manage Users - Students](/school-admins/managing-users#how-to-review-and-approve-student-accounts)). However, you can still approve the `Student` without checking this criteria.
+
+:::
+
+:::info
+
+The system keeps a log of when and who checked each item
 
 :::
 
@@ -70,11 +76,11 @@ Each `School` requires at least one `Area of Study` related to it. If some schoo
 
 ## Events
 
-You can use this tool for any event in which `Internship Providers` can participate to interview `Students`. When scheduling interviews the active `Events` will appear as an option to hold the interviews.
+You can use this tool for any event in which `Internship Providers` can participate to interview `Students`. When scheduling interviews the active `Events` will appear as an option to schedule the interviews.
 
 ## Seasons
 
-`Seasons` are a designated period for internships. `Students`, `Internship Providers`, `Internships`, and everything related to them happens within the `Season`. `Students` and `Internship Providers` need to apply to each new `Season` in order to be able to participate within that period.
+`Seasons` are a way to group everything that happens within a designated period for internships. `Students`, `Internship Providers`, `Internships`, and everything related to them happens within the `Season`. `Students` and `Internship Providers` need to apply to each new `Season` in order to be able to participate within that period.
 
 :::warning
 
@@ -96,13 +102,13 @@ After you have added the `Season`, you need to make it active by pressing the **
 
 :::info
 
-You can only make a `Season` active as long as the dates are within today's date.
+You can only make a `Season` active as long as the dates fall within today's date.
 
 :::
 
 :::info
 
-You can have multiple `Seasons` active at the same time. Some Schools/Districts want to have `Seasons` overlap so `Students` can start registering for the next `Season` while the current `Season` is ongoing.
+You can have multiple `Seasons` active at the same time. Some `Schools/Districts` want to have `Seasons` overlap so `Students` can start registering for the next `Season` while the current `Season` is ongoing.
 
 :::
 
@@ -124,7 +130,7 @@ Please let us know if you need other `Industries` to be added to the list. Refer
 
 ## Content Pages
 
-You can fill in the content you want to appear on **_Home_**, **_About_** and **_Contact_**.
+You can fill in the content you want to appear on **_Home_**, **_About_** and **_Contact_**. Each page is divided into two types of content: the Header and the Main Content. You can easily edit the content with the simple [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG), but if you feel adventurous you can emerge yourself in the world of HTML.
 
 ![Content Pages](images/content-pages.png)
 
@@ -132,7 +138,7 @@ You can fill in the content you want to appear on **_Home_**, **_About_** and **
 
 ## Forms
 
-You can upload any forms you need the `Students` or `Internship Providers` to read. You can use this section to upload forms that require the user to fill in. Tap on **_Add New Form_** and fill in the fields. Tap on **_Examine_** to upload the form from your device.
+You can upload any forms you need the `Students` or `Internship Providers` to read. You can use this section to upload forms that require the user to fill in. Tap on **_Add New Form_** and fill in the fields. Tap on **_Save_** to upload the form from your device.
 
 :::warning
 
@@ -150,15 +156,15 @@ Add `Admin Users` according to your needs. They will receive an email letting th
 
 - `Account Admin`: user has access to all features and configurations, all `Students` and `Internship Providers`.
 - `Supervisor Admin`: user has access to all `Students` and `Internship Providers`, but cannot make changes to configurations or settings.
-- `Supervisor`: user has access only to the schools, `Areas of Study` and `Students` selected. This restriction can be selected herein.
+- `Supervisor`: user has access only to the `Schools`, `Areas of Study` or `Students` selected. This restriction can be selected herein.
 
 You can also choose to send an email to the new `Admin User`.
 
 ## Evaluations
 
-You can use Evaluations to have the providers grade the student's performance during their internship. Set up the questions you will need an answer to, to evaluate the `Students`. Choose the answer to be free text, number, single select or multi select. Choose the text and values according to your needs.
+You can use Evaluations to have the providers grade the student's performance during their internship. Set up the questions needed to evaluate the `Students`. Choose the answer to be free text, number, single select or multi select. Choose the text and values according to your needs.
 
-:::info
+:::warning
 
 You need to set up these questions for each `Season`.
 
