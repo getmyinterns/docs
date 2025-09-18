@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Time Tracking
 
-If your `school/district` requires it, once you have been placed in an internship, you will be able fill out your timesheets within the platform.
+If your `school/district` requires it, once you have been placed in an internship, you will be able to fill out your timesheets within the platform.
 
 ## How to Fill Out and Submit Your Timesheets
 

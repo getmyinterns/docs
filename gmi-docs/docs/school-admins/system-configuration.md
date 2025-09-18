@@ -92,7 +92,7 @@ To add a new `Season` go to **_Configure_** > **_Seasons_** and click on the **_
 
 :::info
 
-The dates are not the dates the `Internships` take place, but rather the dates you want the users to start registering, want to find `Internships` and `Students` all the way through the actual `Internship` when `Students` submit `Timesheets` and `Providers` provide their `Evaluations`.
+The dates are not the dates the `Internships` takes place, but rather the dates you want the users to start registering, want to find `Internships` and `Students` all the way through the actual `Internship` when `Students` submit `Timesheets` and `Providers` provide their `Evaluations`.
 
 :::
 

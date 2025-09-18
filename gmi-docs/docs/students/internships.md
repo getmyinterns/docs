@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Finding and Managing Internships
 
-Please note, that in order to apply for internships your `school/district` might need to approve you [first](getting-started).
+Please note, that in order to apply for internships your `school/district` might need to approve you first after [registering](/students/getting-started).
 
 ## How to Search and Apply for Internships
 
