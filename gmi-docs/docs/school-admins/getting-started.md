@@ -82,11 +82,11 @@ You can have multiple `Seasons` active at the same time. Some Schools/Districts 
 
 Those are the minimum required configurations you need in order to get started, but you will want to configure your instance of GetMyInterns in more details to match your own workflow and needs.
 
-[Managing Users](https://help.getmyinterns.org/school-admins/managing-users)
+[Admin Users](/school-admins/system-configuration#admin-users)
 
-[Reports](https://help.getmyinterns.org/school-admins/reports)
+[Reports](/school-admins/reports)
 
-[System Configuration](https://help.getmyinterns.org/school-admins/system-configuration)
+[System Configuration](/school-admins/system-configuration)
 
 ---
 
@@ -99,7 +99,7 @@ The admin dashboard provides a clear view of your internship program at a glance
 - **User Management**: Add or remove admin users with role-based access.
 - **Configuration Shortcuts**: Quickly jump to workflows, settings, and reports from the left navigation panel.
 
-To learn more about specific areas of the dashboard, check out our [Admin Reports Guide](#), [System Configuration Guide](#), and [Timesheet Setup Help](#).
+To learn more about specific areas of the dashboard, check out our [Admin Reports Guide](/school-admins/reports), [System Configuration Guide](/school-admins/system-configuration), and [Timesheet Setup Help](/school-admins/settings#timesheet-settings).
 
 ---
 
