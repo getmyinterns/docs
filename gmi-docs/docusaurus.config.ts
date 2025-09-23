@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
@@ -17,8 +23,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  //organizationName: 'getmyinterns', // Usually your GitHub org/user name.
-  //projectName: 'docs', // Usually your repo name.
+  // organizationName: 'getmyinterns', // Usually your GitHub org/user name.
+  // projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,12 +46,10 @@ const config: Config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          //editUrl:
+          // editUrl:
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: 
-        {
-
+        blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -69,7 +73,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Docs',
       logo: {
@@ -118,9 +122,9 @@ const config: Config = {
             {
               label: 'Contact us',
               href: 'https://getmyinterns.org/Home/ContactUs?origin=help-page',
-            }
+            },
           ],
-        }
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} GetMyInterns, LLC. Built with Docusaurus.`,
     },
