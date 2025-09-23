@@ -32,7 +32,7 @@ If there are multiple active seasons, you can use the filter to choose between a
 
 :::info
 
-Tap on either the First Name or Last Name of the student to review and edit data such as students `Details`, `Workflow`, `Seasons`, etc. (see [System Configuration](/school-admins/system-configuration) for more info)
+Tap on either the First Name or Last Name of the student to review and edit data such as students `Details`, `Workflow`, `Seasons`, etc. (see [Students Details Modal](/school-admins/students-details-modal) for more info)
 
 :::
 
@@ -60,10 +60,12 @@ If there are multiple active seasons, you can use the filter to choose between a
 
 - Jobs can be reviewed from the `Jobs` tab. They can also be hidden from students view if necessary. Tapping on an existing job title will allow editing.
 
+Refer to [Internship Providers Details Modal](/school-admins/internship-providers-details-modal) for more details.
+
 ![Provider Jobs Tab](images/provider-jobs-tab.png)
 
 :::info
 
-After approving or declining, the provider's status can be changed from **_Reports_** > **_Internship Providers_** (see [Reports - Internship Providers](/school-admins/reports#how-to-run-the-internship-providers-report) for more info) or from any other field where the Internship Provider's name appears clickable.
+After approving or declining, the provider's status can be changed from **_Reports_** > **_Internship Providers_** (see [Reports - Internship Providers](/school-admins/reports#how-to-run-the-internship-providers-report) for more info) or from any other fields where the Internship Provider's name appears clickable.
 
 :::

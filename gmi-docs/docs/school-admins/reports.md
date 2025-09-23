@@ -57,7 +57,7 @@ This report allows you to see a list of `Students` that were offered an `Interns
 
 ![Reports Pending Hires](images/reports-pending-hires.png)
 
-You can access the `Students` and `Internship Providers` details by tapping on their names.
+You can access the `Students` and `Internship Providers` details by tapping on their names (see [Students Details Modal](/school-admins/students-details-modal) and [Internship Provider Details Modal](/school-admins/internship-providers-details-modal) for ore details).
 
 ## Student Timesheets Report
 
