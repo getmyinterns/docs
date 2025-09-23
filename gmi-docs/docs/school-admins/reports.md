@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Reports
@@ -37,15 +37,7 @@ You can get a list of all `Internship Providers` participating in the program. U
 
 You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Internship Providers`.
 
-Tapping on the `Internship Provider`'s name will open the `Internship Provider`'s detail.
-
-![Reports Providers Details](images/reports-providers-details.png)
-
-In the first tab you can view and **_Edit_** the `Internship Provider`'s details. You can **_Approve_** or **_Decline_** the `Internship Provider` for each active `Season` from here.
-
-In the `Jobs` tab you can see a list of `Jobs` offered by the `Internship Provider`. `Account Admins` can add a new `Job`. Tapping on the **_Position Title_** will show you the `Job`'s details, which `Account Admins` will be able to **_Edit_**. The eye icon at the last column will allow `Account Admins` to hide the `Job` offer from `Students`, if needed.
-
-At the bottom of the window you have the button to **_Reset Password_**, if needed.
+![Reports Providers Filter](images/reports-providers-filter.png)
 
 ## Students Placed Report
 
