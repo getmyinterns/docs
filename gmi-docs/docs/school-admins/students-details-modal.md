@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Students Details Modal
 
-Tapping on the `Student`'s first or last name anywhere on the platform where they appear clickable, will open the student's details with different tabs.
+Tapping on the `Student`'s first or last name anywhere on the platform where they appear clickable, will open the `Student`'s details with different tabs.
 
 ![Student Details](images/students-details-modal.png)
 
