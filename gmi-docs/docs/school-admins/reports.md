@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Reports
@@ -28,23 +28,8 @@ You can export the list if needed. Tapping on the number of **_Hired Students_**
 
 You can get a list of all `Students` participating in the program. Use the filter to narrow your search results as needed. Choose the columns you want to appear for your list. `Account Admins` can add a new `Student` and they will receive an email. You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Students`.
 
-Tapping on the `Student`'s first or last name will open the student's detail with different tabs.
-
-![Student Details](images/reports-students-details.png)
-
-In the first tab you can view and Edit the `Student`'s details.
-
-The `Workflow` tab will help you tick the previously filled criteria to approve a `Student` (See [System Configuration-Workflow](/school-admins/system-configuration#workflow-items))
-
-There is a **_Notes_** tab to allow you to freely enter any text you may need.
-
-You can see a list of `Internships` in the `Internships` tab, and approve or decline if necessary. `Account Admins` can also add an `Internship` themselves and notify the `Student` and `Internship Provider`.
-
-On the `Seasons` tab, you can see the `Student`'s status for active `Seasons`, and approve or decline the `Student`.
-
-You can see the `Student`'s **_Interview Availability_** for the active `Seasons` on the last tab.
-
-At the bottom of the window you have the button to **_Reset Password_**, if needed.
+![Students Reports Filters 1](images/reports-students-filters-1.png)
+![Students Reports Filters 2](images/reports-students-filters-2.png)
 
 ## Internship Providers Report
 
