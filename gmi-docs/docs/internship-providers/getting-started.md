@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to GetMyInterns! This guide will help you take your first steps.
 
-Click on **_Register_** and then on `Internship Providers` to create your account. Fill in the required data as shown on the pictures below.
+Click on **_Register_** and then on `Internship Providers` to create your account. Fill in the required data as shown on the pictures below (there may be differences in the data required according to your district's needs).
 
 ![Provider Register 1](images/register-provider-1.png)
 
