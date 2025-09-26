@@ -12,6 +12,12 @@ In the first tab you can view and Edit the `Student`'s details, according to the
 ![Student Details](images/studednts-details-modal-2.png)
 ![Student Details](images/studednts-details-modal-3.png)
 
+:::warning
+
+If you have chosen a school supervisor to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings#timesheet-settings), whether alone or with a workplace supervisor, be sure to edit these details and enter the supervisor in the respective field (see photo 2).
+
+:::
+
 The `Workflow` tab will help you tick the previously filled criteria to approve a `Student` (See [System Configuration-Workflow](/school-admins/system-configuration#workflow-items))
 
 ![Student Details](images/studednts-details-modal-workflow.png)
