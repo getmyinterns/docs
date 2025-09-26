@@ -22,7 +22,7 @@ An `Admin User` can also sign you up, in which case you will receive an email.
 
 :::info
 
-Your account will remain in pending status until an Administrator reviews your information and approves you.
+Your account will remain in pending status until an Administrator reviews your information and approves you. You will receive an email when approved.
 
 :::
 
