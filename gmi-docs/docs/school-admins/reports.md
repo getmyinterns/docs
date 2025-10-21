@@ -61,7 +61,7 @@ You can access the `Students` and `Internship Providers` details by tapping on t
 
 ## Student Timesheets Report
 
-This report shows all the timesheets in the system. You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Settings-Timesheets](/school-admins/settings#timesheet-settings).
+This report shows all the `Timesheets` in the system. You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Settings-Timesheets](/school-admins/settings#timesheet-settings).
 
 You can export or print details report if needed.
 
