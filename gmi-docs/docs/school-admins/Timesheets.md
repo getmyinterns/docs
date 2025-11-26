@@ -12,7 +12,7 @@ You can see the total hours worked for each week on the last column.
 
 :::warning
 
-If you have chosen a school supervisor to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings#timesheet-settings), whether alone or with a workplace supervisor, be sure to edit the `Student`'s details and enter the supervisor in the respective field (see photo 2 on [Students Details Modal](/school-admins/students-details-modal)).
+If you have chosen that a school supervisor needs to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings#timesheet-settings), whether alone or with a workplace supervisor, be sure to edit the `Student`'s details and enter the supervisor in the respective field (see photo 2 on [Students Details Modal](/school-admins/students-details-modal)). Likewise, if you have chosen that a workplace supervisor needs to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings#timesheet-settings), whether alone or with a school supervisor, be sure to edit the `Internship`'s details and enter the supervisor in the respective field (see photo 2 on [Internships](/school-admins/internships)).
 
 :::
 

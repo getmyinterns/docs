@@ -51,6 +51,8 @@ Tapping on the **_Edit_** button will allow `Account Admins` to edit the `Intern
 
 You can also batch assign supervisors by checking multiple students and clicking on the **_Assign Supervisor_** button. This will assign the student the chosen supervisor, which will give that Admin user access to the Student as well as the ability to filter all their students they are assigned to.
 
+You can also assign a workplace supervisor from here if needed according to the [Settings](/school-admins/settings#timesheet-settings) (see warning box in [Timesheets](/school-admins/Timesheets)).
+
 ## Pending Hires Report
 
 This report allows you to see a list of `Students` that were offered an `Internship`, but were not accepted/approved yet. Choose the `Season` in the filter to get a list of pending hires. You can export the list if needed. You can **_Approve_** or **_Decline_** the hire on behalf of the `Student`. The `Student` and `Internship Provider` will receive an email stating the `Internship` has been approved or rejected.

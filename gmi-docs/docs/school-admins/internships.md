@@ -19,5 +19,11 @@ For the **_Payment Source_** you can choose one of 3 options: Employer, Communit
 
 You can fill in the workplace supervisor data below.
 
+:::warning
+
+If your settings indicate a workplace supervisor must approve `Timesheets`, once the `Student` has been placed you need to fill it in from here; otherwise, the `Timesheet` will get stuck in the process.
+
+:::
+
 At the bottom you will find the buttons to **_Terminate_** or **_Withdraw_** the `Internship`.
 

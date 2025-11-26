@@ -37,3 +37,9 @@ The student will receive an email letting them know the offer has been withdrawn
 ## My Interns
 
 Click on **_Interns - My Interns_** on the menu to see a list of `Students` already hired.
+
+:::info
+
+Please ask the `Account Admin` if they need the name and email address of the supervisor assigned to each `Student` in charge of approving the `Timesheets`.
+
+:::
