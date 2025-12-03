@@ -37,7 +37,7 @@ You can get a list of all `Internship Providers` participating in the program. U
 
 You can export the list if needed. Tap on the **_Map_** to see location distribution of registered `Internship Providers`.
 
-![Reports Providers Filter](images/reports-providers-filter.png)
+![Reports Providers Filter](images/reports-providers-filters.png)
 
 ## Students Placed Report
 
