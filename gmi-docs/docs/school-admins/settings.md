@@ -46,9 +46,9 @@ When enabled, it prevents internship providers from offering a job to students a
 
 ### Maximum Student Hires per Company
 
-You can choose how many students at most an `Internship Provider` can hire. Leave it empty if you don't need to limit the number of `Students`hired by a `Internship Providers`.
+You can choose how many students at most an `Internship Provider` can hire. Leave it empty if you don't need to limit the number of `Students`hired by an `Internship Providers`.
 
-In case you need to assign a different maximum to a specific `Internship Providers`, you can do so from the [`Internship Providers` details modal] (#/school-admins/internship-providers-details-modal)
+In case you need to assign a different maximum to a specific `Internship Provider`, you can do so from the [`Internship Providers` details modal](/school-admins/internship-providers-details-modal).
 
 ### Hire Approval Roles
 
