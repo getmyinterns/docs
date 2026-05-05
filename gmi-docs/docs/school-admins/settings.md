@@ -44,6 +44,12 @@ You can choose to use Jotforms platform to upload the Agreement and make it avai
 
 When enabled, it prevents internship providers from offering a job to students already placed in an internship.
 
+### Maximum Student Hires per Company
+
+You can choose how many students at most an `Internship Provider` can hire. Leave it empty if you don't need to limit the number of `Students`hired by an `Internship Providers`.
+
+In case you need to assign a different maximum to a specific `Internship Provider`, you can do so from the [`Internship Providers` details modal](/school-admins/internship-providers-details-modal).
+
 ### Hire Approval Roles
 
 You can choose which admin role is allowed to accept job offers or whether `Students` can also accept them. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
