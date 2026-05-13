@@ -66,6 +66,10 @@ You can choose which role is allowed to Approve or Decline pending `Internship P
 
 You can choose which role is allowed to Approve or Decline pending `Students`. Account Admins, as the super admin, will always have access to do so. For details about these admin users please see [System Configuration - Admin Users](/school-admins/system-configuration#admin-users).
 
+### Limit Student Email Domains
+
+Clicking on the box will allow you to add domains that `Students` will not be allowed to use to register to the platform.
+
 ### Students Placements Threshold
 
 If you want to be informed via email when a number of placed students is reached, you can configure this setting. Please note you can have multiple thresholds. Only Account Admins will be notified.
