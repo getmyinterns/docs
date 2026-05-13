@@ -22,7 +22,7 @@ Tap on the date in the **_Week_** column to open the details. You can approve or
 
 :::warning
 
-If the person who will approve or decline `Timesheets` is not the same person indicated at registration, please contact the school representative to let them know the name and email address of this person.
+If the person who will approve or reject `Timesheets` is not the same person indicated at registration, please contact the school representative to let them know the name and email address of this person.
 
 :::
 
