@@ -50,7 +50,7 @@ If you have a process you follow to approve `Students`, you can use Workflow ite
 
 :::info
 
-You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Manage Users - Students](/school-admins/approving-users#how-to-review-and-approve-student-accounts)). However, you can still approve the `Student` without checking this criteria.
+You can check this criteria before approving `Students`, from the `Student`'s details `Workflow` tab (see [Approving Users - Students](/school-admins/approving-users#how-to-review-and-approve-students)). However, you can still approve the `Student` without checking this criteria.
 
 :::
 

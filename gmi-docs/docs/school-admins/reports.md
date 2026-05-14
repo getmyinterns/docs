@@ -51,7 +51,7 @@ Tapping on the **_Edit_** button will allow `Account Admins` to edit the `Intern
 
 You can also batch assign supervisors by checking multiple students and clicking on the **_Assign Supervisor_** button. This will assign the student the chosen supervisor, which will give that Admin user access to the Student as well as the ability to filter all their students they are assigned to.
 
-You can also assign a workplace supervisor from here if needed according to the [Settings](/school-admins/settings#timesheet-settings) (see warning box in [Timesheets](/school-admins/Timesheets)).
+You can also assign a workplace supervisor from here if needed according to the [Timesheet Settings](/school-admins/settings/timesheet-settings) (see warning box in [Timesheets](/school-admins/Timesheets)).
 
 ## Pending Hires Report
 
@@ -63,13 +63,13 @@ You can access the `Students` and `Internship Providers` details by tapping on t
 
 ## Student Timesheets Report
 
-This report shows all the `Timesheets` in the system. You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Settings-Timesheets](/school-admins/settings#timesheet-settings).
+This report shows all the `Timesheets` in the system. You can use the many filter fields to search and view `Students Timesheets`, as long as you have chosen to **_Enable_** them from the [Timesheets Settings](/school-admins/settings/timesheet-settings).
 
 You can export or print details report if needed.
 
 ## Payroll Report
 
-This report will allow you to export a Payroll Report by calculating the total hours worked per `Student` and `Timesheet` given the selected filter criteria. You can export the report as needed to be imported into any other payroll system. This report is dependant of [Timesheets](/school-admins/settings#timesheet-settings).
+This report will allow you to export a Payroll Report by calculating the total hours worked per `Student` and `Timesheet` given the selected filter criteria. You can export the report as needed to be imported into any other payroll system. This report is dependant of [Timesheets Settings](/school-admins/settings/timesheet-settings).
 
 ![Reports Payrolls](images/reports-payrolls.png)
 

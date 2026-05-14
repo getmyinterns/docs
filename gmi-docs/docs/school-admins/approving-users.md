@@ -8,13 +8,13 @@ sidebar_position: 4
 
 :::warning
 
-This step is only necessary if you have activated it from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings#enable-student-approval) for more info). **If not activated, students will be able to register and directly use the system**.
+This step is only necessary if you have activated it from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings/general-settings) for more info). **If not activated, students will be able to register and directly use the system**.
 
 :::
 
 :::info
 
-You can choose which admin roles can approve/decline `Students` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings#roles-allowed-to-approvedecline-pending-students) for more info).
+You can choose which admin roles can approve/decline `Students` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings/general-settings#roles-allowed-to-approvedecline-pending-students) for more info).
 
 :::
 
@@ -44,7 +44,7 @@ The students need to be approved for each active season they have applied to, ei
 
 :::info
 
-You can choose which admin roles can approve/decline `Internship Providers` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings#roles-allowed-to-approvedecline-pending-providers) for more info).
+You can choose which admin roles can approve/decline `Internship Providers` from **_Settings_** > **_General Settings_**. (See [Settings - General Settings](/school-admins/settings/general-settings#roles-allowed-to-approvedecline-pending-providers) for more info).
 
 :::
 

@@ -21,7 +21,7 @@ Global flag to enable/disable timesheets.
 You can configure who needs to approve the timesheets and in which order. You always need at least one approver:
 
 - **Workplace Supervisor**: this could be `Internship Provider` user who signed up to the system or the one specified by the admin user through the [`Internship` detail modal](/school-admins/internships).
-- **Student Supervisor**: this could be any Admin user who has access to the student or the one assigned through the `Student` detail modal.
+- **Student Supervisor**: this could be any Admin user who has access to the student or the one assigned through the [`Student` detail modal](/school-admins/students-details-modal).
 - **First Workplace Supervisor and then Student Supervisor**: This specifies that the Workplace Supervisor will need to approve the timesheet first and then the Student Supervisor. The Student Supervisor won't be able to approve the timesheet until it is first approved by the Workplace Supervisor.
 - **First Student Supervisor and then Workplace Supervisor**: This specifies that the Student Supervisor will need to approve the timesheet first and then the Workplace Supervisor. The Workplace Supervisor won't be able to approve the timesheet until it is first approved by the Student Supervisor.
 
