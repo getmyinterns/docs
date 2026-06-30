@@ -8,13 +8,11 @@ Tapping on the `Student`'s first or last name anywhere on the platform where the
 
 In the first tab you can view and Edit the `Student`'s details, according to the fields you have chosen on [System Configuration](/school-admins/system-configuration#configurable-student-fields).
 
-![Student Details](images/students-details-modal-1.png)
-![Student Details](images/students-details-modal-2.png)
-![Student Details](images/students-details-modal-3.png)
+![Student Details](images/students-details-modal-1.png) ![Student Details](images/students-details-modal-2.png) ![Student Details](images/students-details-modal-3.png)
 
 :::warning
 
-If you have chosen a school supervisor to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings#timesheet-settings), whether alone or with a workplace supervisor, be sure to edit these details and enter the supervisor in the respective field (see photo 2).
+If you have chosen a school supervisor to approve `Timesheets` from the [Timesheet Settings](/school-admins/settings/timesheet-settings), whether alone or with a workplace supervisor, be sure to edit these details and enter the supervisor in the respective field (see photo 2).
 
 :::
 
