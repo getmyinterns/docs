@@ -40,3 +40,16 @@ The **Academy** is an `Area of Study`, a category or field in which you focus yo
 
 :::
 
+## Seasons
+
+If there is only one active `Season`, you will see it in the screen after registering, already applied to. 
+
+![After registering](images/after-registering.png)
+
+If there are two or more active seasons, you need to apply to one.
+
+![Choose Season](images/choose-season.png)
+
+You can click on the `Season` at the top of the screen to apply to another active `Season`.
+
+![Apply to another Season](images/apply-to-another-season.png)
