@@ -53,3 +53,9 @@ If there are two or more active seasons, you need to apply to one.
 You can click on the `Season` at the top of the screen to apply to another active `Season`.
 
 ![Apply to another Season](images/apply-to-another-season.png)
+
+## Forms
+
+If there are any `Forms` that you are required to fill in, you can download them by clicking at **_Forms_** at the top menu (even if you are still pending approval).
+
+![Forms](images/forms.png)
