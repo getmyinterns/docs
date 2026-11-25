@@ -54,6 +54,12 @@ You can click on the `Season` at the top of the screen to apply to another activ
 
 ![Apply to another Season](images/apply-to-another-season.png)
 
+## Sign out and My Info
+
+Click on you name at the right of the screen to sign out or open **_My Info_**. You can edit the data, upload or change your resume and **_Reset password_**.
+
+![My Info](images/my-admin-my-info.png)
+
 ## Forms
 
 If there are any `Forms` that you are required to fill in, you can download them by clicking at **_Forms_** at the top menu (even if you are still pending approval).
